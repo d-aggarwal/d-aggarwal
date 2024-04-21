@@ -8,7 +8,6 @@
 
 - 📫 How to reach me **drishtiaggarwal6284@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1_4tg1-yugGxeUESDwhI4d6MjWutCBhLR/view?usp=drivesdk](https://drive.google.com/file/d/1_4tg1-yugGxeUESDwhI4d6MjWutCBhLR/view?usp=drivesdk)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
