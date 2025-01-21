@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=d-aggarwal&label=Profile%20views&color=0e75b6&style=flat" alt="d-aggarwal" /> </p>
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱Web Developer and  I’m currently exploring **Machine Learning**
 
 - 📫 How to reach me **drishtiaggarwal6284@gmail.com**
 
