@@ -1,6 +1,8 @@
 <p align="center">
-  <img src="[https://i.pinimg.com/originals/your-image-link.jpg](https://i.pinimg.com/736x/4e/03/87/4e03872d7166cc5ed92c490708af3261.jpg)" alt="Banner" width="100%" />
+  <img src="https://github.com/user-attachments/assets/c3b27392-6bf6-498e-9670-d38a377ec5f0" width="300" hieight = "400" />
 </p>
+
+
 
 
 <h1 align="center">Hi, I'm Drishti 👋</h1>
