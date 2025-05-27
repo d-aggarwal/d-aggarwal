@@ -9,7 +9,7 @@
 
 
 ## 💫 About Me:
-🔭 I’m looking to collaborate on Web Development Projects.<br>🤝 I’m currently diving into DevOps with a focus on contributing in Kubernetes and Kyverno.<br>💬 Ask me about: CI/CD pipelines, AWS CDK, Dagger, Java, or my experience interning at Amazon.<br>⚡ I enjoy breaking down complex systems into elegant, automated solutions—and I love solving DSA problems!<br>
+🔭 I’m looking to collaborate on Web Development and Cloud based Projects.<br>🤝 I’m currently contributing to CNCF Projects.<br>💬 Ask me about: CI/CD pipelines, AWS, Python, Java or my experience interning at Amazon.<br>⚡ I enjoy breaking down complex systems into elegant, automated solutions—and I love solving DSA problems!<br>
 
 
 ## 🌐 Socials:
