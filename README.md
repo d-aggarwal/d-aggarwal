@@ -23,6 +23,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=d-aggarwal&theme=monokai&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+👀 **Profile Views:**  
 [![](https://visitcount.itsvg.in/api?id=d-aggarwal&icon=3&color=2)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
